@@ -17,11 +17,10 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Eventually.</li>
+        <li>&copy; The Motor Music Show</li>
         <li>
-          Credits: <a href="http://unsplash.com/">Unsplash</a> +
-          <a href="http://html5up.net">HTML5 UP</a>
-        </li>
+          by <a href="https://jankless.dev/">jankless.dev</a>
+                  </li>
       </ul>
     </footer>
   );
